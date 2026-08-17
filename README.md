@@ -47,7 +47,7 @@ nearly 3× faster.
 
 ---
 
-## Approach in one paragraph
+## Approach
 
 Stage 1 uses YOLOv8m purely as a localizer to extract object ROIs from the
 driving scene. Stage 2 classifies each ROI with a compact custom Vision
@@ -107,7 +107,7 @@ adverse-weather-object-classification/
 ## Environment
 
 - Python 3.11.9 | PyTorch 2.1+ | CUDA 12.x
-- NVIDIA RTX 3090 (24 GB) | Ubuntu 22.04
+- NVIDIA RTX 4090 (24 GB) | Ubuntu 22.04
 
 ## License
 
