@@ -1,8 +1,5 @@
 # Visual Object Classification for Autonomous Vehicles in Adverse Weather
 
-M.Sc. Thesis — School of Mechanical & Manufacturing Engineering, NUST, Islamabad (2025)
-Author: Muhammad Ahmed | Supervisor: Dr. Tahir Habib Nawaz
-
 ---
 
 ## What this repository contains
